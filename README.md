@@ -43,10 +43,10 @@
 &show_icons=true&locale=en&layout=compact" /></a> |
 | ------------- | ------------- |
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username= shiivaniiawasthii
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username= shiivaniiawasthii
 &show_icons=true&locale=en" alt=" shiivaniiawasthii
-" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt=" shiivaniiawasthii
 " /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&shiivaniiawasthii
+" alt=" shiivaniiawasthii" /></p>
 
