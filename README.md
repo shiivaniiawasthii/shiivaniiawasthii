@@ -9,7 +9,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https:// shiivaniiawasthii .github.io/](https://shiivaniiawasthii .github.io/)
+
 
 
 
@@ -18,7 +18,6 @@
 
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1roONYYZ8dzjapAiY064TICmWVy3Gmh-m/view?usp=sharing](https://drive.google.com/file/d/1roONYYZ8dzjapAiY064TICmWVy3Gmh-m/view?usp=sharing)
 
 
 
