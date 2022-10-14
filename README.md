@@ -38,10 +38,15 @@
 </p>
 
 
-| <a href="https://github.com/ shiivaniiawasthii /github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api?username= shiivaniiawasthii &show_icons=true&locale=en&theme=buefy&hide_border=true" alt="furqan5921 github stats" /></a> | <a href="https://github.com/furqan5921/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=furqan5921&show_icons=true&locale=en&layout=compact" /></a> |
+| <a href="https://github.com/ shiivaniiawasthii /github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api?username= shiivaniiawasthii &show_icons=true&locale=en&theme=buefy&hide_border=true" alt=" shiivaniiawasthii
+ github stats" /></a> | <a href="https://github.com/furqan5921/github-readme-stats"><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username= shiivaniiawasthii
+&show_icons=true&locale=en&layout=compact" /></a> |
 | ------------- | ------------- |
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furqan5921&show_icons=true&locale=en" alt="adilahmed976" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username= shiivaniiawasthii
+&show_icons=true&locale=en" alt=" shiivaniiawasthii
+" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furqan5921&" alt="furqan5921" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt=" shiivaniiawasthii
+" /></p>
 
