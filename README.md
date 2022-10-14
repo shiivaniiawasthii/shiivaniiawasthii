@@ -28,8 +28,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/ankur-singh2698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiivaniiawasthii" height="30" width="40" /></a>
   
-<a href="https://codesandbox.com/ankur982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ankur982" height="30" width="40" /></a>
-<a href="https://instagram.com/ankur2698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankur2698" height="30" width="40" /></a>
+<a href="https://codesandbox.com/shiivaniiawasthii " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shiivaniiawasthii " height="30" width="40" /></a>
+<a href="https://instagram.com/shiivaniiawasthii " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiivaniiawasthii " height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,4 +42,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur982&" alt="ankur982" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiivaniiawasthii&" alt="ankur982" /></p>
