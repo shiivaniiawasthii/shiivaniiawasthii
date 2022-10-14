@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ankur-singh2698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiivaniiawasthii" height="30" width="40" /></a>
   
-<a href="https://codesandbox.com/shiivaniiawasthii " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shiivaniiawasthii " height="30" width="40" /></a>
+<a href="https://codesandbox.com/shiivaniiawasthii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shiivaniiawasthii " height="30" width="40" /></a>
 <a href="https://instagram.com/shiivaniiawasthii " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiivaniiawasthii " height="30" width="40" /></a>
 </p>
 
@@ -37,9 +37,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiivaniiawasthii&show_icons=true&locale=en&layout=compact" alt="shiivaniiawasthii " /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiivaniiawasthii &show_icons=true&locale=en" alt="shiivaniiawasthii " /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiivaniiawasthii&show_icons=true&locale=en" alt="shiivaniiawasthii " /></p>
 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiivaniiawasthii&" alt="ankur982" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiivaniiawasthii&" alt="shiivaniiawasthii " /></p>
